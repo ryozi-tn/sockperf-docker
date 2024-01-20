@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# usage) bash ./build_image.sh
+
 # build faild tags: 2.7 2.8 3.0 3.1 3.2 3.3 3.4 3.5 3.6
 TAGS="3.7 3.8 3.9 3.10"
 
